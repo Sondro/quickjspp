@@ -1,0 +1,31 @@
+<map id="re_parse_disjunction" name="re_parse_disjunction">
+<area shape="rect" id="node2" href="$libregexp_8c.html#a0a619a0b3bf0d0ec3aa0a9a59d610e1c" title="__attribute__" alt="" coords="1015,400,1112,427"/>
+<area shape="rect" id="node3" href="$libregexp_8c.html#a44b4fc8b2dc5c233dff873025438c86d" title="dbuf_insert" alt="" coords="608,45,695,72"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a076eadfa4d028a47601fcb5804329be4" title="lre_check_stack_overflow" alt="" coords="195,96,368,123"/>
+<area shape="rect" id="node6" href="$cutils_8h.html#a3b6aba81e32ed70a2a851744e5a9cc9c" title="put_u32" alt="" coords="617,197,685,224"/>
+<area shape="rect" id="node7" href="$libregexp_8c.html#ac72424cc4c3614e12582bb5684d5971e" title="re_emit_op_u32" alt="" coords="1006,755,1121,781"/>
+<area shape="rect" id="node11" href="$libregexp_8c.html#a87dce3150c68b8a079854274dd39243c" title="re_parse_alternative" alt="" coords="212,248,351,275"/>
+<area shape="rect" id="node29" href="$libregexp_8c.html#a93c827426ec4f4fcca04dd8c040c3250" title="re_parse_out_of_memory" alt="" coords="781,400,951,427"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#ac0b9ce26415947e972d6781d9f2fb11b" title="dbuf_realloc" alt="" coords="1495,197,1587,224"/>
+<area shape="rect" id="node8" href="$cutils_8h.html#a8ba08f82c43549fcb3c939229498354d" title="dbuf_put_u32" alt="" coords="1201,653,1301,680"/>
+<area shape="rect" id="node10" href="$cutils_8h.html#aeed81d4787ccdbd55baa9b5fd6717e88" title="dbuf_putc" alt="" coords="1212,983,1291,1009"/>
+<area shape="rect" id="node9" href="$cutils_8h.html#ad1cfaae47347ae771136b5a9bbda49aa" title="dbuf_put" alt="" coords="1375,628,1447,655"/>
+<area shape="rect" id="node12" href="$libregexp_8c.html#acca34590a18d70f866ad56d67ce309e8" title="re_parse_term" alt="" coords="416,729,521,756"/>
+<area shape="rect" id="node13" href="$libregexp_8c.html#a9cfa82248f8e07e4f79304fb3c51b6ab" title="re_emit_op" alt="" coords="1020,1211,1107,1237"/>
+<area shape="rect" id="node14" href="$libregexp_8c.html#ab3ca6381d29dea396b12acd7f755c51a" title="is_digit" alt="" coords="620,805,683,832"/>
+<area shape="rect" id="node15" href="$libregexp_8c.html#aa656000c3344b15eb895e145f9e57c5c" title="parse_digits" alt="" coords="605,856,697,883"/>
+<area shape="rect" id="node16" href="$libregexp_8c.html#a187e89a1f7e63588373701e223deae5d" title="re_parse_expect" alt="" coords="807,349,925,376"/>
+<area shape="rect" id="node17" href="$cutils_8h.html#a1fed0a329cb7bb0e04283285037921a4" title="dbuf_error" alt="" coords="611,907,691,933"/>
+<area shape="rect" id="node18" href="$libregexp_8c.html#a6e0ee9170c3faaca126dbcc40c07aed7" title="re_parse_group_name" alt="" coords="1176,1388,1327,1415"/>
+<area shape="rect" id="node19" href="$libregexp_8c.html#aa9d5df50b8660101698d8ac4595ec0ed" title="find_group_name" alt="" coords="591,1008,712,1035"/>
+<area shape="rect" id="node20" href="$libregexp_8c.html#a108e0185eb65a399b93d273b6b609da5" title="re_emit_op_u8" alt="" coords="813,1045,919,1072"/>
+<area shape="rect" id="node21" href="$libregexp_8c.html#adc25d27f1e668598f417fb0f07f3281f" title="re_has_named_captures" alt="" coords="569,1312,733,1339"/>
+<area shape="rect" id="node22" href="$libregexp_8c.html#a88ae24975d089263922d36934da51581" title="re_count_captures" alt="" coords="801,1312,931,1339"/>
+<area shape="rect" id="node23" href="$libregexp_8c.html#abe49cc9b1bcf935c4c8cfcbc932cb407" title="re_parse_captures" alt="" coords="999,1363,1128,1389"/>
+<area shape="rect" id="node24" href="$libregexp_8c.html#ab2f98b8a2e66fd9197d2677f47ccffa8" title="re_parse_char_class" alt="" coords="580,501,723,528"/>
+<area shape="rect" id="node25" href="$libunicode_8c.html#a32dd1af21800853555eaa260ddffeff4" title="cr_free" alt="" coords="835,704,897,731"/>
+<area shape="rect" id="node26" href="$libregexp_8c.html#ac654c01af0eedad21af5da6e5035f37c" title="get_class_atom" alt="" coords="809,451,923,477"/>
+<area shape="rect" id="node27" href="$libregexp_8c.html#a889cced8db78de00f11774dc8210874d" title="re_emit_range" alt="" coords="814,653,918,680"/>
+<area shape="rect" id="node28" href="$libregexp_8c.html#a0b36775d2caea480692fc53522db875b" title="re_emit_op_u16" alt="" coords="1006,957,1121,984"/>
+<area shape="rect" id="node30" href="$libregexp_8c.html#aa10efbd91b18637bccff3b8075a0d9a1" title="lre_canonicalize" alt="" coords="594,552,709,579"/>
+</map>

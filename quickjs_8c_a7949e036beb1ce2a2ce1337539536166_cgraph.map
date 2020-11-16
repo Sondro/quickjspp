@@ -1,0 +1,6 @@
+<map id="add_closure_variables" name="add_closure_variables">
+<area shape="rect" id="node2" href="$quickjs_8c.html#aba57c133967ae980c5b76b796eaafeac" title="is_var_in_arg_scope" alt="" coords="207,5,348,32"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="399,81,499,108"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#aa4bf422fda79761502d4d52e13c3162e" title="set_closure_from_var" alt="" coords="204,107,351,133"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a7f6796ee7a195631366f57c713a33f65" title="__JS_AtomIsConst" alt="" coords="547,81,683,108"/>
+</map>

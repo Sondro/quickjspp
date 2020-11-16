@@ -1,0 +1,10 @@
+<map id="compute_stack_size" name="compute_stack_size">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="329,24,427,51"/>
+<area shape="rect" id="node3" href="$cutils_8h.html#ad587834d17e95461893d59661e5e9676" title="get_u16" alt="" coords="201,24,269,51"/>
+<area shape="rect" id="node4" href="$cutils_8h.html#a941262a5f72fda2ec43ae7911e97a0dc" title="get_u32" alt="" coords="201,75,269,101"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a80e54dcf9ac687d4ccc2f90273565f30" title="js_free" alt="" coords="205,176,266,203"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#ae45b122556638f15e903dc36708dbe20" title="ss_check" alt="" coords="196,125,275,152"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#a69e19dda8a93d613203e0baa06f0ed8d" title="js_free_rt" alt="" coords="340,176,416,203"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#afa610f3175e9cb11fdceac95071099b5" title="js_resize_array" alt="" coords="323,125,433,152"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a0eda61158c0a22ef337abc3a035bca33" title="js_realloc_array" alt="" coords="481,125,595,152"/>
+</map>

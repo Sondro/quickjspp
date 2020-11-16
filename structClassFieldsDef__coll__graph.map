@@ -1,0 +1,26 @@
+<map id="ClassFieldsDef" name="ClassFieldsDef">
+<area shape="rect" id="node2" href="$structJSFunctionDef.html" title="JSFunctionDef" alt="" coords="1328,529,1437,556"/>
+<area shape="rect" id="node3" href="$structlist__head.html" title="list_head" alt="" coords="5,235,80,261"/>
+<area shape="rect" id="node12" href="$structJSContext.html" title="JSContext" alt="" coords="1061,331,1145,357"/>
+<area shape="rect" id="node13" href="$structJSRuntime.html" title="JSRuntime" alt="" coords="766,331,853,357"/>
+<area shape="rect" id="node15" href="$structJSGCObjectHeader.html" title="JSGCObjectHeader" alt="" coords="153,235,292,261"/>
+<area shape="rect" id="node18" href="$structJSModuleDef.html" title="JSModuleDef" alt="" coords="759,773,860,800"/>
+<area shape="rect" id="node4" href="$structBlockEnv.html" title="BlockEnv" alt="" coords="1064,229,1143,256"/>
+<area shape="rect" id="node5" href="$structJSValue.html" title="JSValue" alt="" coords="481,560,551,587"/>
+<area shape="rect" id="node6" href="$unionJSValueUnion.html" title="JSValueUnion" alt="" coords="170,560,275,587"/>
+<area shape="rect" id="node7" href="$structLabelSlot.html" title="LabelSlot" alt="" coords="1065,280,1141,307"/>
+<area shape="rect" id="node8" href="$structRelocEntry.html" title="RelocEntry" alt="" coords="766,111,853,137"/>
+<area shape="rect" id="node9" href="$structJSGlobalVar.html" title="JSGlobalVar" alt="" coords="1056,419,1151,445"/>
+<area shape="rect" id="node10" href="$structJumpSlot.html" title="JumpSlot" alt="" coords="1065,469,1142,496"/>
+<area shape="rect" id="node11" href="$structDynBuf.html" title="DynBuf" alt="" coords="1070,525,1137,552"/>
+<area shape="rect" id="node14" href="$structJSShape.html" title="JSShape" alt="" coords="479,307,553,333"/>
+<area shape="rect" id="node16" href="$structLineNumberSlot.html" title="LineNumberSlot" alt="" coords="1046,627,1161,653"/>
+<area shape="rect" id="node17" href="$structJSClosureVar.html" title="JSClosureVar" alt="" coords="1052,677,1155,704"/>
+<area shape="rect" id="node21" href="$structJSReqModuleEntry.html" title="JSReqModuleEntry" alt="" coords="1036,728,1171,755"/>
+<area shape="rect" id="node19" href="$structJSRefCountHeader.html" title="JSRefCountHeader" alt="" coords="448,707,584,733"/>
+<area shape="rect" id="node20" href="$structJSStarExportEntry.html" title="JSStarExportEntry" alt="" coords="451,757,581,784"/>
+<area shape="rect" id="node22" href="$structJSImportEntry.html" title="JSImportEntry" alt="" coords="463,808,569,835"/>
+<area shape="rect" id="node23" href="$structJSExportEntry.html" title="JSExportEntry" alt="" coords="463,859,569,885"/>
+<area shape="rect" id="node24" href="$structJSVarDef.html" title="JSVarDef" alt="" coords="1064,779,1143,805"/>
+<area shape="rect" id="node25" href="$structJSVarScope.html" title="JSVarScope" alt="" coords="1056,829,1151,856"/>
+</map>

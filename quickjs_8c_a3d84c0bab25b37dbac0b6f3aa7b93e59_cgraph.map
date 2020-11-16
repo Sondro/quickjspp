@@ -1,0 +1,15 @@
+<map id="add_eval_variables" name="add_eval_variables">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a2bfa1a7eb92eca442a25cf6726a0b19d" title="add_arguments_arg" alt="" coords="189,208,325,235"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ab2e0855c4317f8e3b05c0a091bc43a29" title="add_var" alt="" coords="405,120,473,147"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a868100a32a3062ab6365985bb5c02b7d" title="add_arguments_var" alt="" coords="189,107,325,133"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#afe834031fad358f2fbd7d71cfe8ac19c" title="add_func_var" alt="" coords="207,157,307,184"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#a237c9785e84b9382c476ee0868edb117" title="add_var_this" alt="" coords="209,5,305,32"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a5067e8cf3633f10ec12c2f3ee9134c85" title="get_closure_var" alt="" coords="200,259,315,285"/>
+<area shape="rect" id="node14" href="$quickjs_8c.html#aba57c133967ae980c5b76b796eaafeac" title="is_var_in_arg_scope" alt="" coords="187,309,328,336"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a71d5a1295366e7101dc688e5728ede32" title="find_var_in_scope" alt="" coords="376,184,503,211"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#a853f0924d441ea4225488f37c8b69f9a" title="__attribute__" alt="" coords="723,108,820,135"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#abbf44eaeace1104a6bef718fbf5700fe" title="JS_DupAtom" alt="" coords="721,171,821,197"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#afa610f3175e9cb11fdceac95071099b5" title="js_resize_array" alt="" coords="716,233,827,260"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a4671a759c33274b073d0578ac62261e0" title="get_closure_var2" alt="" coords="379,259,500,285"/>
+<area shape="rect" id="node13" href="$quickjs_8c.html#a9f64fb61a20cee1cad0eb2680624e341" title="add_closure_var" alt="" coords="551,196,668,223"/>
+</map>

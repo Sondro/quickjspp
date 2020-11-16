@@ -1,0 +1,17 @@
+<map id="JS_EvalInternal" name="JS_EvalInternal">
+<area shape="rect" id="node2" href="$quickjs_8c.html#a97231fb89bb56fdeddd9f5ba17b0e1ff" title="JS_EvalObject" alt="" coords="168,208,277,235"/>
+<area shape="rect" id="node11" href="$quickjs_8c.html#a99d6f8b4fcb9989546e5fb13d65aaf55" title="JS_EvalThis" alt="" coords="175,284,271,311"/>
+<area shape="rect" id="node3" href="$quickjs_8c.html#ac2894ff4edcdb4e6841bcce9c76081e3" title="JS_CallInternal" alt="" coords="349,107,459,133"/>
+<area shape="rect" id="node8" href="$quickjs_8c.html#a43064473b2e303ee40f4c1c7a87e85da" title="js_function_constructor" alt="" coords="325,183,483,209"/>
+<area shape="rect" id="node10" href="$quickjs_8c.html#aa760a09841b95bbc8ab2859780713705" title="js_global_eval" alt="" coords="352,233,456,260"/>
+<area shape="rect" id="node4" href="$quickjs_8c.html#ade71a22dc56e7371392393df663b28b3" title="async_func_resume" alt="" coords="556,5,695,32"/>
+<area shape="rect" id="node5" href="$quickjs_8c.html#a1a4c02a29525d5cb2085dd8bca3af350" title="JS_Call" alt="" coords="591,56,659,83"/>
+<area shape="rect" id="node6" href="$quickjs_8c.html#ad35594576a14c10812efaf958c99af8a" title="JS_CallConstructorInternal" alt="" coords="536,107,715,133"/>
+<area shape="rect" id="node7" href="$quickjs_8c.html#a75f6ee5e4235a7dc99889f3d2eb2c147" title="JS_CallFree" alt="" coords="578,157,673,184"/>
+<area shape="rect" id="node9" href="$quickjs_8c.html#a4c9489297c684663f30e517204a9ec14" title="JS_AddIntrinsicBaseObjects" alt="" coords="531,208,720,235"/>
+<area shape="rect" id="node12" href="$quickjs_8c.html#a8f9200abd5af97fd0411fe053cb021e0" title="JS_Eval" alt="" coords="369,309,439,336"/>
+<area shape="rect" id="node13" href="$classqjs_1_1Context.html#aeafa4cad50424999587a30d7d3994251" title="qjs::Context::eval" alt="" coords="563,259,688,285"/>
+<area shape="rect" id="node14" href="$quickjs-libc_8c.html#acedf696011fa506afce358928ffa1522" title="js_loadScript" alt="" coords="577,309,674,336"/>
+<area shape="rect" id="node15" href="$quickjs-libc_8c.html#ad61d60681847f324c5ba4ad88c546f1e" title="js_module_loader" alt="" coords="564,360,687,387"/>
+<area shape="rect" id="node16" href="$quickjs-libc_8c.html#a55f6cd4bbd0e676992642d066fd1d9fd" title="js_evalScript" alt="" coords="577,411,674,437"/>
+</map>
